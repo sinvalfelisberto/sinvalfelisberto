@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Sinval Felisberto, tenho 43 anos e sou natural do Brasília -DF. Sou formado em ADS, com Pós em IA e Tecnologias Móveis.
+Hi there!
+I'm here to learn and became better everyday!
 
 <p align="left">
     <a href="https://github.com/sinvalfelisberto?tab=repositories&sort=stargazers">
