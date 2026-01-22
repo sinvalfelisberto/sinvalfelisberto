@@ -23,6 +23,7 @@ Me chamo Sinval Felisberto, tenho 43 anos e sou natural do Brasília -DF. Sou fo
 
 ---
 
+<!--
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -125,7 +126,7 @@ Me chamo Sinval Felisberto, tenho 43 anos e sou natural do Brasília -DF. Sou fo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
-
+-->
 
 <br/>
 <br/>
