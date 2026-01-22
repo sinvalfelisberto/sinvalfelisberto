@@ -172,8 +172,7 @@ IDEs:
 
 OS:
 ![Linux - Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="20"/> Windows 11
-
+![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square)
 
 <br/>
 <br/>
