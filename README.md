@@ -172,7 +172,7 @@ IDEs:
 
 OS:
 ![Linux - Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
+![Windows](https://img.shields.io/badge/-Windows%2011-0078D6?style=flat-square&logo=windows)
 
 <br/>
 <br/>
