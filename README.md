@@ -63,7 +63,7 @@ Me chamo Sinval Felisberto, tenho 43 anos e sou natural do Brasília -DF. Sou fo
     title="C#" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
