@@ -10,14 +10,14 @@ I'm here to learn and became better everyday!
         <img 
             alt="Stars" 
             title="S.T.A.R.S." 
-            src="https://custom-icon-badges.demolab.com/github/stars/sinvalfelisberto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/sinvalfelisberto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=S.T.A.R.S."
         />
     </a>
         <a href="https://github.com/sinvalfelisberto?tab=followers">
         <img 
             alt="Followers" 
             title="Followers" 
-            src="https://custom-icon-badges.demolab.com/github/followers/sinvalfelisberto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/sinvalfelisberto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
