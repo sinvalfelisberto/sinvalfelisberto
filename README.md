@@ -170,6 +170,10 @@ IDEs:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+OS:
+![Linux - Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows%2011-0078D6?style=flat-square&logo=windows&logoColor=white)
+
 <br/>
 <br/>
 
