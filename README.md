@@ -13,7 +13,6 @@ I'm here to learn and became better everyday!
             src="https://custom-icon-badges.demolab.com/github/stars/sinvalfelisberto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=S.T.A.R.S."
         />
     </a>
-    &Tab
         <a style="text-decoration=none" href="https://github.com/sinvalfelisberto?tab=followers" >
         <img 
             alt="Followers" 
