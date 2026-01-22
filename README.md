@@ -1,6 +1,6 @@
 ## Sinval Felisberto 
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
 Hi there!
 I'm here to learn and became better everyday!
