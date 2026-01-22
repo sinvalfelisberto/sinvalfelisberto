@@ -117,6 +117,16 @@ Me chamo Sinval Felisberto, tenho 43 anos e sou natural do Brasília -DF. Sou fo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="T-SQL" 
+    title="T-SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+/>
+
+
 <br/>
 <br/>
 
