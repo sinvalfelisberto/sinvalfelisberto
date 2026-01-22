@@ -12,7 +12,7 @@ Me chamo Sinval Felisberto, tenho 43 anos e sou natural do Brasília -DF. Sou fo
             src="https://custom-icon-badges.demolab.com/github/stars/sinvalfelisberto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/sinvalfelisberto?tab=followers">
+        <a href="https://github.com/sinvalfelisberto?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -172,7 +172,7 @@ IDEs:
 
 OS:
 ![Linux - Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg)
+![Windows](https://img.shields.io/badge/-Windows%2011-0078D6?style=flat-square&logo=microsoft&logoColor=white)
 
 <br/>
 <br/>
