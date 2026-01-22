@@ -8,15 +8,15 @@ I'm here to learn and became better everyday!
 <p align="left">
     <a href="https://github.com/sinvalfelisberto?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Stars" 
+            title="S.T.A.R.S." 
             src="https://custom-icon-badges.demolab.com/github/stars/sinvalfelisberto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
         <a href="https://github.com/sinvalfelisberto?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Followers" 
             src="https://custom-icon-badges.demolab.com/github/followers/sinvalfelisberto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
