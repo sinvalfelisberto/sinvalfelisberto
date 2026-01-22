@@ -6,14 +6,14 @@ Hi there!
 I'm here to learn and became better everyday!
 
 <p align="left">
-    <a href="https://github.com/sinvalfelisberto?tab=repositories&sort=stargazers"  text-decoration="none">
+    <a href="https://github.com/sinvalfelisberto?tab=repositories&sort=stargazers" style="text-decoration=none">
         <img 
             alt="Stars" 
             title="S.T.A.R.S." 
             src="https://custom-icon-badges.demolab.com/github/stars/sinvalfelisberto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=S.T.A.R.S."
         />
     </a>
-        <a href="https://github.com/sinvalfelisberto?tab=followers" text-decoration="none">
+        <a href="https://github.com/sinvalfelisberto?tab=followers" style="text-decoration=none">
         <img 
             alt="Followers" 
             title="Followers" 
