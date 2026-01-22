@@ -2,8 +2,7 @@
 
 **`FullStack Developer`**
 
-Hi there!
-I'm here to learn and became better everyday!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3B69F7&width=435&lines=FullStack+Developer;Always+learning+something+new!;Never+give+up...;...to+be+a+better+professional!)](https://git.io/typing-svg)
 
 <p align="left">
     <a style="text-decoration=none" href="https://github.com/sinvalfelisberto?tab=repositories&sort=stargazers" >
