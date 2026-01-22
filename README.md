@@ -90,7 +90,7 @@ Me chamo Sinval Felisberto, tenho 43 anos e sou natural do Brasília -DF. Sou fo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+/>(https://img.shields.io/badge/-Windows%2011-0078D6?style=flat-square&logo=microsoft&logoColor=white)
 
 <img 
     align="left" 
@@ -172,7 +172,8 @@ IDEs:
 
 OS:
 ![Linux - Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows%2011-0078D6?style=flat-square&logo=microsoft&logoColor=white)
+![Windows]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="20"/> Windows 11
+
 
 <br/>
 <br/>
