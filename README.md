@@ -131,8 +131,6 @@
 <br/>
 <br/>
 
-## ⚡ Technologies
-
 These are some of the technologies and tools that I work with:
 
 Backend:  
@@ -140,14 +138,18 @@ Backend:
 ![Java](https://img.shields.io/badge/-☕%20Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/-🚀%20C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
+![.Net](https://img.shields.io/badge/.Net-5C2D91?logo=.net&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=flat-square)
 
 Frontend:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![JQuery](https://img.shields.io/badge/JQuery-ED8B00?logo=jquery&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
 Database:
@@ -170,9 +172,12 @@ IDEs:
 
 OS:
 
-![Linux - Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Linux - Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square)
 ![Android](https://img.shields.io/badge/Android-0078D6?style=flat-square&logo=android&Color=white)
+
+<br/>
+<br/>
 
 
 
