@@ -189,14 +189,17 @@ OS:
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=sinvalfelisberto&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    src="https://github-stats-extended.vercel.app/api?username=sinvalfelisberto&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinvalfelisberto&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=10"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=sinvalfelisberto&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=10"
   />
 
 </p>
+
+<br/>
+<br/>
